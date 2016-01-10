@@ -1,0 +1,15 @@
+
+What is HTML?                     
+HTML is Hypertext Markup Language which is a standard system for tagging text files to achieve font, color graphic and hyperlink effects.
+
+What are some important tags used in HTML ? 
+Some of the important tags that are used in HTML are:
+
+<html>This tags defines that it is an HTML document </html>
+<head>This tag is to provide info for document such as title </head>
+<title>This tag is to provide a title for the document</title>
+<body>This tag defines the documents body </body>
+<h1> This tag defines Heading  </h1>
+<p>This tag is for writing paragraphs</p>
+<img>This tag is for image</img>
+<div>This tag defines division or section</div>
